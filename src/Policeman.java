@@ -5,5 +5,8 @@ public class Policeman extends Intellingent implements Intelligent_Interface{
     public String GetAway() {
         return "Name";
     }
+    public void SetAge(){
+        System.out.println("Heloow");
+    }
 }
 
