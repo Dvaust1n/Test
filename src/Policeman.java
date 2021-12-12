@@ -8,5 +8,8 @@ public class Policeman extends Intellingent implements Intelligent_Interface{
     public void SetAge(){
         System.out.println("Heloow");
     }
+    public void SayHello(){
+        System.out.println("Heloowevrs");
+    }
 }
 
